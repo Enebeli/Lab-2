@@ -1,0 +1,1 @@
+Wolf.onclick = document.getElementById('Wolf'); src="wolf.webp";

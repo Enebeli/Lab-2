@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center; background-color: #120323;
+    color: #97bf04; margin: 1%; font-size: 20pt;
+}
+img{
+    display: block; margin-left: auto; margin-right: auto; margin-bottom: 1%;
+     width: 50%; height: 50%;
+}
+button{
+color: #120323; background-color: #d9043d; float: center;
+}
+button:active{
+    background-color: #97bf04;
+}
+.buttons{
+    text-align: center;
+}
